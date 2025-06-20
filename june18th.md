@@ -36,6 +36,16 @@ This framework aligns with dual processtheory outlined in, which distinguishes b
 
 
 
+新しい論文：
+
+AS AI systems continue to spread and become integrated nto mny aspects of society, the concept of human-centered AI has gained increasing prominence(the state of being easily seen or well known), raising the critical question of which humans
+are the AI systems to be centered around.
+
+As artificial intelligence(AI) systems continue to be integrated(consisting of different groups of people who mix, live or 
+work well together) into many aspects of society, spanning domains such as healthcare, education, agriculture, and transportation, the concept of human centered AI has gained increasing prominence.
+
+
+
 
 
 
