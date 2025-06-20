@@ -42,8 +42,10 @@ AS AI systems continue to spread and become integrated nto mny aspects of societ
 are the AI systems to be centered around.
 
 As artificial intelligence(AI) systems continue to be integrated(consisting of different groups of people who mix, live or 
-work well together) into many aspects of society, spanning domains such as healthcare, education, agriculture, and transportation, the concept of human centered AI has gained increasing prominence.
+work well together) into many aspects of society, spanning domains such as healthcare, education, agriculture, and transportation, the concept of human centered AI has gained increasing prominence. Human-centered AI involves placing humans at the center of every phase of AI design and deployment. This includes identifying societal problems that are suitable for AI-enabled soluttions, collectign real-world training datasets, and using AI techniques that do not lead to harms such as discrimination. Human-centred AI also emphasizes, transparency(the quality or state of being transparent(Capable of transmitting light so that objects or images can be seen as if there were no intervening material. )), explainability, and adaptability to different human contexts, and it places emphasis on evaluations that ensure the Ai systems benefit those directly affected, while also identifying and addressing any negative consequences before widespread adoption.
 
+Yet, this raises a critical question; which humans are these systems centered around, and what are the implications of who is represented 
+and who is not? 
 
 
 
