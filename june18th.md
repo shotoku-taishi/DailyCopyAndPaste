@@ -46,6 +46,19 @@ work well together) into many aspects of society, spanning domains such as healt
 
 Yet, this raises a critical question; which humans are these systems centered around, and what are the implications of who is represented 
 and who is not? 
+Despite the promise of AI to enhance lives globally, many AI systems fail to address socially relevant problems or attempt to address problems that are 
+relevant to selected few. THis is party(person or group taking one side of question, dispute, or contest) because the focus in 
+AI development has ben primarily from the systems perspectie,rather than on the humans impacted by these systems. Further, ofr the systems developed to date, we have seen significant disparities in how benefits and harms are distributed across different
+communities.
+
+This quadrennnial paper explores the need to place the emphasis on human in human in human-centered AI. It callls for learning from  fields such as Human-Computer Interaction and Science and Technology Studies, which have a long history of including humans in technology design and evaluation, and making informed decisions about when qeual representation in AI development and deployment is beneficial or harmful to the impacted groups. The paper highlights opportunities for human-centred AI that shift the focus from the AI systems to the humans and considers a broad(very wide) spectrum(a range of different positions, opnions, etc. between two extreme points:) of human experiences and needs.
+
+
+Support the Development of AI(refers to computer systems that can perform complextasks normally done by human-reasoning, decisio making creating.etc. There is no single, ismple definition of artificial intelligence becaue AI tools are capable of a wide rane of tasks and oututs. but NASA follows the definition of AI found within EO 13960. Any arrtificial system that performs tasks under varying and unpredictable circumstances without significant human oversight, or that can learn from experience and improve performance when exposed to data sets.) SYstems That Respect and Serve a Broad Spectrum of Human Experiences.
+
+Why is human-centered AI important, especially o serve andprotect different groups? Human-centered design is critical to the AI development processbecause it can pinpoint aspects that technologists focusing on technical solutions may otherwsise miss. FOr example, when HealthCare.gov launched in 2013, in addition ot the issues of system performance, many users found the website dificult usedue to consusing navigation, a lack of explanation for complex insurance terms, and overwhelming information. A human-centeed approach could have conducted user studies with a diverse applicant pool to uncover and remedy() issues before deployment().
+
+
 
 
 
