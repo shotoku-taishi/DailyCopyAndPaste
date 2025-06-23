@@ -36,7 +36,8 @@ This framework aligns with dual processtheory outlined in, which distinguishes b
 
 
 
-新しい論文：
+新しい論文：https://arxiv.org/pdf/2506.14680
+
 
 AS AI systems continue to spread and become integrated nto mny aspects of society, the concept of human-centered AI has gained increasing prominence(the state of being easily seen or well known), raising the critical question of which humans
 are the AI systems to be centered around.
@@ -56,7 +57,9 @@ This quadrennnial paper explores the need to place the emphasis on human in huma
 
 Support the Development of AI(refers to computer systems that can perform complextasks normally done by human-reasoning, decisio making creating.etc. There is no single, ismple definition of artificial intelligence becaue AI tools are capable of a wide rane of tasks and oututs. but NASA follows the definition of AI found within EO 13960. Any arrtificial system that performs tasks under varying and unpredictable circumstances without significant human oversight, or that can learn from experience and improve performance when exposed to data sets.) SYstems That Respect and Serve a Broad Spectrum of Human Experiences.
 
-Why is human-centered AI important, especially o serve andprotect different groups? Human-centered design is critical to the AI development processbecause it can pinpoint aspects that technologists focusing on technical solutions may otherwsise miss. FOr example, when HealthCare.gov launched in 2013, in addition ot the issues of system performance, many users found the website dificult usedue to consusing navigation, a lack of explanation for complex insurance terms, and overwhelming information. A human-centeed approach could have conducted user studies with a diverse applicant pool to uncover and remedy() issues before deployment().
+Why is human-centered AI important, especially o serve andprotect different groups? Human-centered design is critical to the AI development processbecause it can pinpoint aspects that technologists focusing on technical solutions may otherwsise miss. FOr example, when HealthCare.gov launched in 2013, in addition ot the issues of system performance, many users found the website dificult usedue to consusing navigation, a lack of explanation for complex insurance terms, and overwhelming information. A human-centered approach could have conducted user studies with a diverse applicant pool to uncover and remedy(collecting or allleviating a problem) issues before deployment(classification of things).
+
+An another example, many law enforcement agencies began using facial recognition, which often perform poorly or brown and black faces, leading to wrongful arrests and other serious consequences. Similarly, AI systems that claim to infer human emotion are deployed across high-stakes contexts, such as hiring, 
 
 
 
